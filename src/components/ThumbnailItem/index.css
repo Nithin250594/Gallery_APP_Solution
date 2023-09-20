@@ -1,0 +1,18 @@
+/* Write your code here. */
+.gallery-list {
+  list-style-type: none;
+  margin-right: 5px;
+}
+
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.noOpacity {
+  opacity: 1;
+}
+
+.yesOpacity {
+  opacity: 0.5;
+}
